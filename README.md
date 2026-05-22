@@ -9,7 +9,7 @@
 [![Built on Lanyard](https://img.shields.io/badge/Built%20on-Lanyard-5865F2?style=flat-square&logo=discord&logoColor=white)](https://github.com/Phineas/lanyard)
 [![dcdn.dstn.to](https://img.shields.io/badge/Powered%20by-dcdn.dstn.to-7289da?style=flat-square)](https://dcdn.dstn.to)
 [![License: MIT](https://img.shields.io/badge/License-MIT-3ba55c?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-faa61a?style=flat-square)](https://github.com/yourusername/lanyard-assets/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-faa61a?style=flat-square)](https://github.com/baxqc/lanyard-assets/pulls)
 [![Self-Hostable](https://img.shields.io/badge/Self--Hostable-yes-eb459e?style=flat-square)]()
 
 </div>
