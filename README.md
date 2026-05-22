@@ -239,7 +239,7 @@ docker run -p 8080:8080 lanyard-assets
 
 ## 📄 License
 
-MIT © [yourusername](https://github.com/baxqc)
+MIT © [Bax](https://github.com/baxqc)
 
 ---
 
