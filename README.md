@@ -50,7 +50,7 @@ GET https://api.lanyard.rest/v1/users/:user_id
   "success": true,
   "data": {
     "discord_user": {
-      "id": "1409006135087988767",
+      "id": "1481422459990442096",
       "username": "yourname",
       "avatar": "abc123",
       "public_flags": 4194432
@@ -65,8 +65,8 @@ GET https://api.lanyard.rest/v1/users/:user_id
 ### Step 3 — Fetch badges and banner
 
 ```
-GET https://your-deployment.com/badges/1409006135087988767
-GET https://your-deployment.com/banner/1409006135087988767?size=512
+GET https://your-deployment.com/badges/1481422459990442096
+GET https://your-deployment.com/banner/1481422459990442096?size=512
 ```
 
 No bot token. No API key. Just a user ID.
@@ -89,7 +89,7 @@ Returns all Discord profile badges for the given user.
 
 ```json
 {
-  "user_id": "1409006135087988767",
+  "user_id": "1481422459990442096",
   "badges": [
     {
       "id": "active_developer",
@@ -126,12 +126,12 @@ Proxies the user's Discord banner image directly. The raw image is returned — 
 **Example**
 
 ```
-GET /banner/1409006135087988767?size=1024
+GET /banner/1481422459990442096?size=1024
 ```
 
 ```html
 <!-- Use directly in HTML -->
-<img src="https://your-deployment.com/banner/1409006135087988767?size=512" />
+<img src="https://your-deployment.com/banner/1481422459990442096?size=512" />
 ```
 
 Banner data is sourced from:
@@ -164,7 +164,7 @@ Combined endpoint — returns badges and the banner URL together so you only nee
 
 ```json
 {
-  "user_id": "1409006135087988767",
+  "user_id": "1481422459990442096",
   "banner_url": "https://dcdn.dstn.to/banners/1409006135087988767?size=512",
   "badges": [
     {
@@ -239,7 +239,7 @@ docker run -p 8080:8080 lanyard-assets
 
 ## 📄 License
 
-MIT © [yourusername](https://github.com/yourusername)
+MIT © [yourusername](https://github.com/baxqc)
 
 ---
 
